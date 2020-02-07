@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalStatementEthanAnderson", "ConditionalStatementEthanAnderson\ConditionalStatementEthanAnderson.csproj", "{FE16C09E-1D7C-4D64-A7E9-7CD055D174BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE16C09E-1D7C-4D64-A7E9-7CD055D174BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE16C09E-1D7C-4D64-A7E9-7CD055D174BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE16C09E-1D7C-4D64-A7E9-7CD055D174BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE16C09E-1D7C-4D64-A7E9-7CD055D174BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
